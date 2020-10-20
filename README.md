@@ -35,6 +35,7 @@
 <img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/raspberrypi.svg">
 <img align="left" alt="Plex" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/plex.svg">
 <br>
+<br>
 
 <details>
   <summary>⚡ GitHub Stats</summary>
