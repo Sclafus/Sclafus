@@ -40,7 +40,7 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" alt="Scla's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sclafus&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" alt="Scla's GitHub Stats" src="https://read-me-stats-sclafus.vercel.app/api?username=Sclafus&show_icons=true&hide_border=true&theme=dracula">
 
 </details>
 
