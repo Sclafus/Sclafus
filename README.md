@@ -20,6 +20,7 @@
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg">
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg">
 <img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/python.svg">
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/php.svg">
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linux.svg">
 <img align="left" alt="RedHat" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/redhat.svg">
 <br>
