@@ -27,11 +27,12 @@
 
 ### I also use these on a daily basis!
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linux.svg">
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/docker.svg">
+<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/kubernetes.svg">
 <img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/numpy.svg">
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/pandas.svg">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/git.svg">
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg">
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/amazonaws.svg">
 <img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/raspberrypi.svg">
 <br>
 <br>
@@ -39,7 +40,7 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" alt="Scla's GitHub Stats" src="https://read-me-stats-sclafus.vercel.app/api?username=Sclafus&show_icons=true&hide_border=true&theme=vue-dark&count_private=true">
+  <img alt="Scla's GitHub Stats" src="https://read-me-stats-sclafus.vercel.app/api?username=Sclafus&show_icons=true&hide_border=true&theme=material-palenight&count_private=true">
 
 </details>
 
