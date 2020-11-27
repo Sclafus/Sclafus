@@ -29,8 +29,6 @@ I use only Visual Studio Code! <img alt="Visual Studio Code" width="26px" src="h
 ### I also use these on a daily basis!
 <img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/numpy.svg">
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/pandas.svg">
-<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/anaconda.svg">
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/mongodb.svg">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/git.svg">
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg">
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/amazonaws.svg">
