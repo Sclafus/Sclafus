@@ -6,9 +6,9 @@
  - ⌨I am also a keyboard enthusiast! I've just built <a target="_blank" href="https://i.imgur.com/GZh0dSU.jpg">my first custom keyboard</a> a couple weeks ago!
 
 ### Get in touch with me! 🤝
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/telegram.svg">][telegram]
+[<img align="left" target="_blank" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/telegram.svg">][telegram]
+[<img align="left" target="_blank" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
+[<img align="left" target="_blank" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 <br>
 
 ### My development tools!⌨
