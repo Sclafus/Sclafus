@@ -3,7 +3,7 @@
 ### Facts about me: 🍏
  - 🔓I really enjoy Open Source software 
  - 🖥I actually know a lot about hardware 
- - ⌨I am also a keyboard enthusiast! I am planning on building my own keyboard in a couple months🤓 
+ - ⌨I am also a keyboard enthusiast! I've just built <a target="_blank" href="https://i.imgur.com/GZh0dSU.jpg">my first custom keyboard</a> a couple weeks ago!
 
 ### Get in touch with me! 🤝
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
@@ -12,7 +12,7 @@
 <br>
 
 ### My development tools!⌨
-I use only Visual Studio Code! <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"> I like to focus on the actual code, and not on the editor.
+<img alt="Visual Studio Code" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg"> I use only Visual Studio Code! I like to focus on the actual code, and not on the editor.
 <br>
 
 ### My coding languages of choice!
@@ -23,10 +23,10 @@ I use only Visual Studio Code! <img alt="Visual Studio Code" width="26px" src="h
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg">
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg">
 <img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/python.svg">
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linux.svg">
 <br>
 
 ### I also use these on a daily basis!
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linux.svg">
 <img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/numpy.svg">
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/pandas.svg">
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/git.svg">
