@@ -4,6 +4,7 @@
  - 🔓I really enjoy Open Source software 
  - 🖥I actually know a lot about hardware 
  - ⌨I am also a keyboard enthusiast! I've just built <a target="_blank" href="https://i.imgur.com/GZh0dSU.jpg">my first custom keyboard</a> a couple weeks ago!
+ - 📖Currently learning: Objective-C for iOS app development, also reviewing HTML/CSS/JS for web apps
 
 ### Get in touch with me! 🤝
 [<img align="left" target="_blank" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/telegram.svg">][telegram]
