@@ -42,6 +42,7 @@
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pandas.svg">
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/mysql.svg">
 <br>
+<br>
 
 <details>
   <summary>⚡ GitHub Stats</summary>
