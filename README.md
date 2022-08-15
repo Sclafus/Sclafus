@@ -4,7 +4,7 @@
  - 🔓I really enjoy Open Source software
  - 🖥I actually know a lot about hardware
  - ⌨I am a keyboard enthusiast! <a target="_blank" href="https://i.imgur.com/R6A7JKQ.jpg">This is my current build</a>
-- 📖Currently learning: Qt for GUI development and renforcing my knowledge of C++ and Python
+ - 📖Currently learning: Qt for GUI development and reinforcing my knowledge of C++ and Python
 
 ### Get in touch with me! 🤝
 [<img align="left" target="_blank" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">][telegram]
