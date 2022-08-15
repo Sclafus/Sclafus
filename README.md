@@ -7,7 +7,6 @@
 - 📖Currently learning: Qt for GUI development and renforcing my knowledge of C++ and Python
 
 ### Get in touch with me! 🤝
-<p align="left"> </p>
 [<img align="left" target="_blank" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">][telegram]
 [<img align="left" target="_blank" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">][instagram]
 [<img align="left" target="_blank" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">][linkedin]
