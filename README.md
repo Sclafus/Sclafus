@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Alessandro and I'm (almost) an IT engineer!📚
+## 👋 Hey there, I'm Alessandro and I'm an IT engineer!📚
 
 ### Facts about me: 🍏
  - 🔓I really enjoy Open Source software
