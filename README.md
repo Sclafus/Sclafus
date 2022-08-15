@@ -1,10 +1,10 @@
 ## 👋 Hey there, I'm Alessandro and I'm (almost) an IT engineer!📚
 
 ### Facts about me: 🍏
- - 🔓I really enjoy Open Source software 
- - 🖥I actually know a lot about hardware 
- - ⌨I am also a keyboard enthusiast! I've just built <a target="_blank" href="https://i.imgur.com/GZh0dSU.jpg">my first custom keyboard</a> a couple weeks ago!
- - 📖Currently learning: Objective-C for iOS app development, Java for Android Development, Numpy/Pandas/MatPlotLib for Data Science, Assembly 8086 for low level coding
+ - 🔓I really enjoy Open Source software
+ - 🖥I actually know a lot about hardware
+ - ⌨I am a keyboard enthusiast! <a target="_blank" href="https://i.imgur.com/R6A7JKQ.jpg">This is my current build</a>
+- 📖Currently learning: Qt for GUI development and renforcing my knowledge of C++ and Python
 
 ### Get in touch with me! 🤝
 <p align="left"> </p>
