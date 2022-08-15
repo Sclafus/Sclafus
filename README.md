@@ -7,40 +7,39 @@
  - 📖Currently learning: Objective-C for iOS app development, Java for Android Development, Numpy/Pandas/MatPlotLib for Data Science, Assembly 8086 for low level coding
 
 ### Get in touch with me! 🤝
-[<img align="left" target="_blank" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/telegram.svg">][telegram]
-[<img align="left" target="_blank" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/instagram.svg">][instagram]
-[<img align="left" target="_blank" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/linkedin.svg">][linkedin]
+<p align="left"> </p>
+[<img align="left" target="_blank" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">][telegram]
+[<img align="left" target="_blank" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">][instagram]
+[<img align="left" target="_blank" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">][linkedin]
 <br>
 
 ### My development tools!⌨
-<img alt="Visual Studio Code" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/visualstudiocode.svg"> I use only Visual Studio Code! I like to focus on the actual code, and not on the editor.
+<img alt="Visual Studio Code" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> I use only Visual Studio Code! I like to focus on the actual code, and not on the editor.
 <br>
 
 ### My coding languages of choice!
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/html5.svg">
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sass.svg">
-<img align="left" alt="Python3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/python.svg">
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/javascript.svg">
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/cplusplus.svg">
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <br>
 
 ### I use these on a daily basis!
-<img align="left" alt="Arch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/archlinux.svg">
-<img align="left" alt="Firefox" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/firefox.svg">
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/git.svg">
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/github.svg">
-<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/raspberrypi.svg">
+<img align="left" alt="Arch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
+<img align="left" alt="Firefox" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg">
+<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+<img align="left" alt="Qt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg">
 <br>
 
 ### I also use these sometimes 🤓
-<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/windows.svg">
-<img align="left" alt="Red Hat" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/redhat.svg">
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/java.svg">
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/docker.svg">
-<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/kubernetes.svg">
-<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/numpy.svg">
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pandas.svg">
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/mysql.svg">
+<img align="left" alt="React Native" width="26px" src="https://reactnative.dev/img/header_logo.svg">
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+<img align="left" alt="Flask" width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+<img align="left" alt="Objective-C" width="26px" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg">
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
 <br>
 <br>
 
