@@ -13,7 +13,7 @@
 <br>
 
 ### My development tools!⌨
-<img alt="Visual Studio Code" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> I use only Visual Studio Code! I like to focus on the actual code, and not on the editor.
+I use only <img title = "Visual Studio Code" alt="Visual Studio Code" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> as I like to focus on the actual code, and not on the editor.
 <br>
 
 ### My coding languages of choice!
