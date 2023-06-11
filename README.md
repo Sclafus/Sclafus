@@ -25,7 +25,7 @@ I use only <img title = "Visual Studio Code" alt="Visual Studio Code" width="18p
 <br>
 
 ### I use these on a daily basis!
-<img align="left" alt="Arch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
+<img align="left" alt="Arch" width="26px" src="https://styles.redditmedia.com/t5_2qrzu/styles/communityIcon_9uqx3fcjr4g51.jpeg?width=256&format=pjpg&v=enabled&s=36edc6304b277a70eb9e8e9d10df5795c0af6a4a">
 <img align="left" alt="Firefox" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg">
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
