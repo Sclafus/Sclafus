@@ -15,6 +15,7 @@
 
 ### My programming languages of choice 🔥
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 <br>
