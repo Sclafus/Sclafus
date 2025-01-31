@@ -43,6 +43,6 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img alt="Scla's GitHub Stats" src="https://read-me-stats-sclafus.vercel.app/api?username=Sclafus&show_icons=true&hide_border=true&theme=material-palenight&count_private=true">
+  <img alt="Scla's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sclafus&show_icons=true&hide_border=true&theme=material-palenight&count_private=true">
 
 </details>
