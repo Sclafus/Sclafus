@@ -14,29 +14,29 @@
  - 📖 Currently learning: Kubernetes & Go 
 
 ### My programming languages of choice 🔥
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+<img align="left" alt="Python" width="26px" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="Bash" width="26px" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+<img align="left" alt="C++" width="26px" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="left" alt="Go" width="26px" title="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 <br>
 
 ### I use these on a daily basis 😎
-<img align="left" alt="Arch Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
-<img align="left" alt="Kubernetes" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
-<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+<img align="left" alt="Arch Linux" width="26px" title="Arch Linux" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
+<img align="left" alt="Kubernetes" width="26px" title="Kubernetes" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
+<img align="left" alt="Git" width="26px" title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="left" alt="Docker" width="26px" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 <br>
 
 ### I also use these sometimes 🤓
-<img align="left" alt="Qt" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-<img align="left" alt="FastAPI" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
-<img align="left" alt="Objective-C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg">
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="left" alt="Qt" width="26px" title="Qt" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
+<img align="left" alt="HTML" width="26px" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+<img align="left" alt="Sass" width="26px" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<img align="left" alt="Bootstrap" width="26px" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+<img align="left" alt="Flask" width="26px" title="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+<img align="left" alt="FastAPI" width="26px" title="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
+<img align="left" alt="Objective-C" width="26px" title="Objective-C" src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg">
+<img align="left" alt="Java" width="26px" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="left" alt="JavaScript" width="26px" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <br>
 <br>
 
