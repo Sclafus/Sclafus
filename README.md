@@ -10,8 +10,8 @@
  - 🔓 I really enjoy Open Source software
  - ⚡️ I know a lot about hardware
  - ⌨ I am a keyboard enthusiast! [This is my current build](https://i.imgur.com/R6A7JKQ.jpg)
- - 💻 Currently working with: Kubernetes & Python
- - 📖 Currently learning: Kubernetes & Go 
+ - 💻 Currently working with: Python, Go & Kubernetes
+ - 📖 Currently learning: Kubernetes & Go
 
 ### My programming languages of choice 🔥
 <img align="left" alt="Python" width="26px" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
